@@ -1,0 +1,151 @@
+{
+    "en": "الإنجليزية",
+    "ar": "العربية",
+    "messages": {
+      "success": "تم بنجاح",
+      "updated": "تم التحديث بنجاح",
+      "added": "تمت الإضافة بنجاح",
+      "cancelled": "تم الإلغاء بنجاح",
+      "sent": "تم الارسال بنجاح"
+    },
+    "form": {
+      "name": "الاسم",
+      "en_name": "الاسم الانجليزي",
+      "ar_name": "الاسم العربي",
+      "email": "الايميل",
+      "mobile": "الهاتف",
+      "password": "كلمة المرور",
+      "confirmPassword": "تأكيد كلمة المرور",
+      "street": "الشارع",
+      "building": "المنزل / البناء",
+      "floor": "الدور",
+      "apartment": "رقم الشقة",
+      "message": "الرسالة",
+      "uploadPhoto": "إرفع صورة",
+      "card":"رقم الكارت",
+      "address": "العنوان",
+      "birth_date":"تاريخ الميلاد",
+      "group_name":"اسم الشركة",
+      "gender": "النوع",
+      "status": "الحالة",
+      "active":"نشط",
+      "inActive":"غير نشط",
+      "add":"اضافة",
+      "title":"العنوان",
+      "body":"المحتوي",
+      "comment":"تعليق"
+
+
+
+    },
+    "validation": {
+      "required": "%{path} حقل مطلوب",
+      "email": "%{path} يجب أن يكون عنوان بريد إلكتروني صالح",
+      "length": "%{path} يجب أن يكون بالضبط %{length} حروف",
+      "minString": "%{path} يجب يكون على الأقل %{min} حروف",
+      "maxString": "%{path} يجب يكون على الأكثر %{max} حروف",
+      "minNumber": "%{path} يجب أن يكون أكبر من أو يساوي %{min}",
+      "maxNumber": "%{path} يجب أن يكون أقل من أو يساوي %{max}",
+      "confirmPasswordNotMatch": "تأكيد كلمة المرور لا تتطابق مع كلمة المرور",
+      "imageRequired": "الصورة حقل مطلوب",
+
+    },
+    "common": {
+      "slogan":"تطبيق رائع",
+      "eg": "جنيه",
+      "cancel": "إلغاء",
+      "ok": "تأكيد",
+      "yes": "نعم",
+      "no": "لا",
+      "continue": "متابعة",
+      "submit": "إرسال",
+      "confirm": "تأكيد",
+      "skip": "تخطي",
+      "next": "التالى",
+      "back": "السابق",
+      "noData": "لايوجد بيانات",
+      "search": "بحث...",
+      "welcome": "أهلا بك",
+      "welcomeback": "اهلا ومرحبا بعودتك",
+      "tellafriend":"دعوة صديق",
+      "from":"من",
+      "to":"الى"
+
+
+    },
+    "auth": {
+      "login": "تسجيل الدخول",
+      "signup": "حساب جديد",
+      "logout": "تسجيل الخروج",
+      "loginCaterer": "تسجيل دخول المتعهد",
+      "signupCaterer": "إنشاء حساب المتعهد",
+      "joinUs": "إنضم إلينا",
+      "resetPassword": "إعادة تعيين كلمة المرور",
+      "forgotPassword": "نسيت كلمة المرور؟",
+      "aleadyhaveacc": "هل لديك حساب بالفعل؟",
+      "createaccount":"انشاء حساب",
+      "newAccount": "مستخدم جديد؟ تسجيل",
+      "loggedinMsg": "تم تسجيل الدخول بنجاح",
+      "signupMsg": "تم الاشتراك بنجاح",
+      "signupCatererMsg": "تم الاشتراك بنجاح ، يمكنك تسجيل الدخول بعد موافقة المشرف",
+      "register-success":"قم بفحص بريدك الالكتروني لتنشيط حسابك "
+
+    },
+    "tabs":{
+      "home": "الرئيسية",
+      "search": "بحث",
+      "setting": "الاعدادات",
+      "profile":"الملف الشخصي",
+      "benefits":"مميزات اشتراكك",
+      "Feed":"احدث المنشورات"
+
+
+
+    },
+    "setting": {
+      "setting": "الإعدادات",
+      "settings": "الإعدادات",
+      "en": "English",
+      "ar": "العربية",
+      "saveSetting": "حفظ الإعدادات"
+    },
+    "home": {
+      "home": "الرئيسية"
+    },
+    "contactUs": {
+      "contactUs": "اتصل بنا"
+    },
+    "addPost":{
+      "post":"منشور",
+      "add-post":"اضافة منشور",
+      "add":"اضافة",
+      "title":"العنوان",
+      "body":"المحتوي",
+      "details":"التفاصيل",
+      "comments":"التعليقات",
+      "add-comment":"اضافةتعليق"
+    },
+    "search":{
+      "governate":"المحافظة",
+      "city":"المدينة",
+      "specialization":"التخصص",
+      "servicetype":"نوع الخدمة",
+      "search":"بحث",
+      "address":"العنوان",
+      "specialaization":"التخصص",
+      "More":"المزيد",
+      "working-times":"مواعيد عمل طبيب ميديكير",
+      "search-results":"نتائج البحث",
+      "no-search-resutls":"لا توجد نتائج بحث برجاء اعادة الاختيار",
+      "open-location":"عرض الموقع على خرائط جوجل",
+
+
+
+
+
+
+
+      
+
+    }
+  }

@@ -1,0 +1,155 @@
+{
+    "en": "English",
+    "ar": "Arabic",
+    "messages": {
+      "success": "success",
+      "updated": "Updated successfully",
+      "added": "Added successfully",
+      "cancelled": "Canceled successfully",
+      "sent": "Sent successfully"
+    },
+    "form": {
+      "name": "name",
+      "first_name": "first_name",
+      "last_name": "last_name",
+      "area_id": "City",
+      "street_address": "street_address",
+      "partment_number": "partment_number",
+      "code": "code",
+      "birth_date":"birth_date",
+   "card":"Card",
+      "name:en": "english name",
+      "name:ar": "arabic name",
+      "email": "email",
+      "mobile": "phone",
+      "persons": "persons",
+      "time": "time",
+      "password": "password",
+      "password_confirmation": "confirm password",
+      "street": "street",
+      "address": "address",
+      "building": "house / building",
+      "floor": "floor",
+      "apartment": "apartment No.",
+      "message": "message",
+      "uploadPhoto": "upload photo",
+      "Governate":"Governate",
+      "group_name":"group_name",
+      "gender": "gender",
+      "status": "status",
+      "add":"add",
+      "title":"title",
+      "body":"body",
+      "comment":"comment"
+
+    },
+    "validation": {
+      "required": "%{path} is a required ",
+      "email": "%{path} must be a valid email",
+      "length": "%{path} must be exactly %{length} characters",
+      "minString": "%{path} must be at least %{min} characters",
+      "maxString": "%{path} must be at most %{max} characters",
+      "minNumber": "%{path} must be greater than or equal to %{min}",
+      "maxNumber": "%{path} must be less than or equal to %{max}",
+      "confirmPasswordNotMatch": "confirm password does not match the password",
+      "imageRequired": "image is a required ",
+
+    },
+    "common": {
+      "slogan":"Amazing App .",
+      "eg": "EG",
+      "cancel": "Cancel",
+      "ok": "OK",
+      "yes": "Yes",
+      "no": "No",
+      "continue": "Continue",
+      "submit": "Submit",
+      "confirm": "Confirm",
+      "skip": "Skip",
+      "next": "Next",
+      "back": "Back",
+      "noData": "No Data",
+      "search": "Search...",
+      "welcome": "Welcome",
+      "welcomeback": "Welcome back",
+      "tellafriend":"Invite a friend",
+      "from":"From",
+      "to":"to",
+      "active":"active",
+      "inActive":"not Active"
+
+
+    },
+    "auth": {
+      "login": "Login",
+      "signup": "Signup",
+      "logout": "Logout",
+      "loginCaterer": "Login Caterer",
+      "signupCaterer": "Signup Caterer",
+      "joinUs": "Join Us",
+      "resetPassword": "Reset Password",
+      "forgotPassword": "Forgot your Password?",
+      "aleadyhaveacc": "Already have an account?",
+      "newAccount": "Don't have an account? Signup",
+      "loggedinMsg": "Login successfully",
+      "signupMsg": "Signup successfully",
+      "signupCatererMsg": "Signup successfully, You can login after admin approval",
+      "createaccount":"Create Account",
+      "register-success":"pealse check your email for activation link"
+
+    },
+    "setting": {
+      "setting": "Setting",
+      "settings": "Settings",
+      "en": "English",
+      "ar": "العربية",
+      "saveSetting": "Save Setting"
+    },
+    "home": {
+      "home": "Home"
+    },
+    "contactUs": {
+      "contactUs": "Contact Us"
+    },
+    "tabs":{
+      "home": "Home",
+      "search": "Search",
+      "setting": "Settings",
+      "profile":"Profile",
+      "benefits":"Benefits",
+      "Feed":"News Feed"
+
+
+
+
+    },
+    
+    "addPost":{
+      "add-post":"Post",
+      "add":"add",
+      "title":"title",
+      "body":"body",
+      "details":"Details",
+      "comments":"Comments",
+      "add-comment":"Add Comment"
+    },
+    "search":{
+      "governate":"Governate",
+      "city":"City",
+      "specialization":"Specialization",
+      "servicetype":"Service Type",
+      "search":"Search",
+      "address":"address",
+      "specialaization":"Specialaization",
+      "More":"More",
+      "working-times":"Medicare doctor Working Time",
+      "search-results":"Search Results",
+      "no-search-resutls":"No search results please try other options ",
+     "open-location":"Navigate yo locationon ",
+     "register-success":"pealse check your email for activation link"
+
+      
+
+
+    }
+  }

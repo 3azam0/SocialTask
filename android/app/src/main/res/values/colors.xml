@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Base application theme. -->
+        <!-- Customize your theme here. -->
+    <color name="blue">#4f6d7a</color>
+
+    <color name="bootsplash_background">#FFFFFF</color>
+</resources>
